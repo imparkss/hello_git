@@ -1,4 +1,3 @@
-local modification
 add 1
 Hello git!!
 edited by RB1.0
