@@ -1,7 +1,4 @@
 add 1
 Hello git!!
-<<<<<<< HEAD
 edited by RB1.0
-=======
-edit master branch
->>>>>>> add master edit.
+edited by master branch
